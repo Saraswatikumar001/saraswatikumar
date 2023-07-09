@@ -1,4 +1,4 @@
-![logo](https://github.com/Saraswatikumar001/saraswatikumar/blob/main/image.png)
+![logo](https://woz-u.com/wp-content/uploads/2020/02/What-Do-Software-Engineers-Do-WOZ-1-min.png)
 h1 align="center">Hi 👋, I'm Saraswati Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt ="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
