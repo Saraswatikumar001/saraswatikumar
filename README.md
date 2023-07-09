@@ -1,7 +1,7 @@
 ![logo](https://github.com/Saraswatikumar001/saraswatikumar/blob/main/What-Do-Software-Engineers-Do-WOZ-1-min.webp)
 h1 align="center">Hi 👋, I'm Saraswati Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt ="coding" width="400" src="https://tenor.com/view/programming-gif-25868426"
+<img align="right" alt ="coding" width="400" src="https://tenor.com/view/programming-gif-25868426">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saraswatikumar001&label=Profile%20views&color=0e75b6&style=flat" alt="saraswatikumar001" /> </p>
 
